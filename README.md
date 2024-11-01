@@ -1,6 +1,6 @@
 # My Portfolio
 Welcome to my portfolio! This project showcases my skills, projects.
-
+Live:  https://my-portfolio-smith-24.netlify.app/
 ## Features
 - About Me: An overview of my background, skills, and experiences.
 - Projects: A collection of my notable projects with descriptions, screenshots, and links.
