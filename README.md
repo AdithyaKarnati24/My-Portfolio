@@ -1,7 +1,7 @@
 Live https://my-portfolio-smith-24.netlify.app <br/>
 
 Introduction:
-My Portfolio is a React.js application that serves as an online portfolio to showcase my work, skills, and achievements. It provides an overview of my background, displays my projects. 
+My Portfolio is a React.js application that serves as an online portfolio to showcase my work, skills, and achievements. It provides an overview of my background, displays my projects.</br> 
 Features:
 <ul>
 <li>About Me: An overview of my background, skills.</li>
