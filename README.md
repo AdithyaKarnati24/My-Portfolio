@@ -9,13 +9,13 @@ Features:<ul>
 <li>Skills: A list of my technical skills and proficiencies.
 <li>Resume: A link to download my resume.  <ul/>
 
-Technologies Used <br/>
-<li>React.js: A JavaScript library for building user interfaces.<li/>
-<li>HTML5 & CSS3: Markup and styling languages for building web <li/>
-<li>JavaScript: A programming language for adding interactivity to web applications.<li/>
-<li>Style-Components: A CSS framework for creating responsive and mobile-first designs.<li/>
-<li>Git: A version control system for tracking changes and collaborating on projects.<li/>
-<li>GitHub Pages: A platform for hosting and deploying web applications.<li/>
+Technologies Used <ul>
+<li>React.js: A JavaScript library for building user interfaces.
+<li>HTML5 & CSS3: Markup and styling languages for building web
+<li>JavaScript: A programming language for adding interactivity to web applications.
+<li>Style-Components: A CSS framework for creating responsive and mobile-first designs.
+<li>Git: A version control system for tracking changes and collaborating on projects.
+<li>GitHub Pages: A platform for hosting and deploying web applications.<ul/>
 
 # Getting Started with Create React App
 
